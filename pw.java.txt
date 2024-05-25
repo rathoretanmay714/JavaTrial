@@ -5,4 +5,9 @@ class Pw
 	{
 		//// code
 	}
+	public void ml()
+	{
+		//// code2
+	}
+
 }
